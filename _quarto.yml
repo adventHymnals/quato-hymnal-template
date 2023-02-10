@@ -36,8 +36,6 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: millenial-harp
-        text: Millenial Harp
 format:
   html:
     theme:
