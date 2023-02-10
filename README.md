@@ -1,0 +1,1 @@
+# quato-hymnal-template
