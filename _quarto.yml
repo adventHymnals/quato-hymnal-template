@@ -1,8 +1,12 @@
 project: 
   type: website
 
-website: 
-  page-navigation: false
+website:
+  search: 
+    location: navbar
+    type: overlay
+    copy-button: true
+  page-navigation: true
   title: "Advent Hymnals" 
   site-url: "https://adventhymnals.org" 
   repo-url: "https://github.com/adventhymnals/v3"
@@ -32,6 +36,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: millenial-harp
+        text: Millenial Harp
 format:
   html:
     theme:
